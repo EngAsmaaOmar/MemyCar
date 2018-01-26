@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MemyCar</string>
+    <string name="mail">Email</string>
+    <string name="hidmail">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="hidpass">Enter your password</string>
+    <string name="logbutoon">LOGIN</string>
+    <string name="splashtxt"> Welcom To THE APPLICATION MEMY CAR </string>
+    <string name="splashtxt2">THE LATEST PLATFORM IN SECURED CARS</string>
+    <string name="splashtxt3"> CHOOSE AND LEAVE THE Rest to us</string>
+    <string name="ermail">البريد الالكترونى </string>
+    <string name="erpass">كلمة المرور </string>
+    <string name="erhidmail">من فضلك أدخل الايميل</string>
+    <string name="erhidpass">من فضلك أدخل الباسوورد</string>
+    <string name="twloginbutton">دخول</string>
+    <string name="bastxt"> MEMY CAR MORE GUARANTEE MORE TRUST </string>
+    <string name="splashtwoar">  أهلا بك في تطبيق ميمي كار  .... أكبر منصة للسيارات المضمونة   اختار ....... وخلى الباقى علينا </string>
+    <string name="Name">Name </string>
+    <string name="hintname">Enter your Name </string>
+    <string name="en_sucesstxt"> Already Have An Account ! signin</string>
+    <string name="cartxtmark"> BMW M4 COUPE , 19LM , Automatic , Navigation , Head up display ,Seat heating .... </string>
+    <string name="arname"> الاسم</string>
+    <string name="arnamehint">من فضلك ادخل الاسم  </string>
+    <string name="arabicmenu">Arabic</string>
+    <string name="english_menu">English</string>
+
+
+</resources>
